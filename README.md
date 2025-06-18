@@ -135,4 +135,3 @@ Please **do not copy, reproduce, or distribute** any part of this repository wit
 
 
 #### CSC 139 - Spring 2024 - Instructor: Daryl Posnett
-- Didn't get along with him. I dropped his course.
